@@ -1,0 +1,13 @@
+# Core libraries
+numpy
+pandas
+
+# Visualization (if used for plotting clusters)
+matplotlib
+seaborn
+
+# Web app UI
+streamlit
+
+# Optional (for performance or scaling)
+scikit-learn  # only if you plan to compare with sklearn’s KMeans
